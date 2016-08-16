@@ -9,7 +9,6 @@
             "email": "v2computers2004@yahoo.com"
         }
     ],
-    "minimum-stability": "beta",
     "require": {
         "php": ">=5.3.0"
     },
