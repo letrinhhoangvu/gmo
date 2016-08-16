@@ -1,4 +1,5 @@
 <?php
+namespace GMO\Payment;
 /**
  * Gmo
  *
